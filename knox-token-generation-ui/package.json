@@ -10,9 +10,9 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/common": "^13.0.1",
-    "@angular/compiler": "^13.0.1",
-    "@angular/core": "^13.0.1",
+    "@angular/common": "^22.0.2",
+    "@angular/compiler": "^22.0.2",
+    "@angular/core": "^22.0.2",
     "@angular/forms": "^13.0.1",
     "@angular/platform-browser": "^13.0.1",
     "@angular/platform-browser-dynamic": "^13.0.1",
